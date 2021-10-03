@@ -1,11 +1,11 @@
 {
-    "name": "hansun_site",
-    "short_name": "hansun_site",
+    "name": "waitfor",
+    "short_name": "waitfor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "site of Hansun Corp.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
