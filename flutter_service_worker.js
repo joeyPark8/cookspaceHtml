@@ -3,17 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "31c41f10fcd3e2ea9e6df3294dbfed31",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "496563a5e2e9bbf992e655a47d7a882b",
+"assets/NOTICES": "88bf6660cf3800e02c1d5e058780684c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
+"assets/packages/youtube_player_flutter/assets/speedometer.webp": "50448630e948b5b3998ae5a5d112622b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8c6793602d7dce0f137ea1523f5ce0df",
-"/": "8c6793602d7dce0f137ea1523f5ce0df",
-"main.dart.js": "d964cd0a92bf90e553b6a208bcc6278a",
+"index.html": "9b224f1976b141cec081b0c614c8e58c",
+"/": "9b224f1976b141cec081b0c614c8e58c",
+"main.dart.js": "f1bea0dfccc5b4d16f9b48adbee45983",
 "manifest.json": "6062977a26a37661025a8398250b7003",
 "version.json": "bbbdf59a29468b3a09883787014d65af"
 };
