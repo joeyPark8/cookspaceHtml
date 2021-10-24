@@ -1,11 +1,11 @@
 {
-    "name": "waitfor",
-    "short_name": "waitfor",
+    "name": "how_same_with_me",
+    "short_name": "how_same_with_me",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "How same are you with me?",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

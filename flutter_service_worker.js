@@ -3,22 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "31c41f10fcd3e2ea9e6df3294dbfed31",
+  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "cf6e91b8a242581c93171054a5dcafd7",
+"assets/NOTICES": "a343d01e8cc8e460d0526fb92f70b5f9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
-"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
-"assets/packages/youtube_player_flutter/assets/speedometer.webp": "50448630e948b5b3998ae5a5d112622b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "304debddc342047d83a1469da0f9bd5d",
-"/": "304debddc342047d83a1469da0f9bd5d",
-"main.dart.js": "95899b2096de78cd7df62241b8237951",
-"manifest.json": "6062977a26a37661025a8398250b7003",
-"version.json": "bbbdf59a29468b3a09883787014d65af"
+"index.html": "b0760ffbd595138e226f1510658d39bb",
+"/": "b0760ffbd595138e226f1510658d39bb",
+"main.dart.js": "b4379935f5939de5a72fa968b96361e1",
+"manifest.json": "5dd4b0cb86a30870ac9be83a3c1db9d1",
+"version.json": "fe7d439f8a811d03cd6d5f30791b4c73"
 };
 
 // The application shell files that are downloaded before a service worker can
