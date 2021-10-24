@@ -1,11 +1,11 @@
 {
-    "name": "how_same_with_me",
-    "short_name": "how_same_with_me",
+    "name": "hansun_site",
+    "short_name": "hansun_site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "How same are you with me?",
+    "description": "site of Hansun Corp.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
