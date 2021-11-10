@@ -1,11 +1,11 @@
 {
-    "name": "waitfor",
-    "short_name": "waitfor",
+    "name": "hack_awareness",
+    "short_name": "hack_awareness",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new for waiting sth.",
+    "description": "project for increasing awareness of cracking",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
