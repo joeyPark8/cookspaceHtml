@@ -1,11 +1,11 @@
 {
-    "name": "hack_awareness",
-    "short_name": "hack_awareness",
+    "name": "cook_space",
+    "short_name": "cook_space",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "project for increasing awareness of cracking",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
